@@ -1,0 +1,8 @@
+.env
+*.log
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+jenkins_home/
+.aws/

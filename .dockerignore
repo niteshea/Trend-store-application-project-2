@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env
+*.log
+.terraform/
+*.tfstate
+*.tfstate.backup
+jenkins_home/
